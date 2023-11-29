@@ -23,12 +23,10 @@
         <div class="tabs">
             <input id="signup" type="radio" name="slider" checked>
             <input id="signin" type="radio" name="slider">
-            <input id="aboutus" type="radio" name="slider">
 
             <div class="buttons">
                 <label for="signup"></label>
                 <label for="signin"></label>
-                <label for="aboutus"></label>
             </div>
 
             <div class="content">
@@ -52,15 +50,6 @@
                         <a href="login.php"><button>SIGN IN</button></a>
                     </div>
                 </div>
-                <div class="box aboutus">
-                    <div class="contentBx">
-                        <h2>ABOUT US</h2>
-                        <p>MMUST welcomes you to a world where students,
-                            Practioners and staff are interconnected. Wanna
-                            be a part of this great family? Sign Up Today
-                        </p>
-                        <a href="about.php"><button>ABOUT US</button></a>
-                    </div>
                 </div>
             </div>
         </div>
